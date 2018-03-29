@@ -1,3 +1,9 @@
+
+/* style the score for reddit articles */
+.redScore{
+    color: red;
+}
+
 .topnav {
     overflow: hidden;
 }
